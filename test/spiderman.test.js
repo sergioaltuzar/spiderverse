@@ -10,6 +10,5 @@ describe("Unit Test for Spiderman class", () => {
      expect(andrewGarfield.actor).toBe("Andrew Garfield");
      expect(andrewGarfield.movies).toBe(2);
      expect(andrewGarfield.studio).toBe("Sony");
-
     });
   })
