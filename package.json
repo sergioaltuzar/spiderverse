@@ -1,0 +1,22 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "ejercicio 2, mision backende con node js, LaunchX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergioaltuzar/spiderverse.git"
+  },
+  "author": "Sergio Altuzar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergioaltuzar/spiderverse/issues"
+  },
+  "homepage": "https://github.com/sergioaltuzar/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
