@@ -12,7 +12,7 @@ describe("Unit Test for Spiderman class", () => {
      expect(andrewGarfield.studio).toBe("Sony");
     });
     test('2) Used method getInfo()', () => {
-      const tomHolland = new Spiderman("Spiderman Sony", 25, "Tom Holland", 5, "Marvel");
+      const tomHolland = new Spiderman("Spiderman Sony", 25, "Tom Holland", 5, "Marvel Studios");
       expect(tomHolland.getInfo()).toBe("Hey, I'm Tom Holland from Marvel Studios");
   });
   });
